@@ -18,7 +18,7 @@ Paste in the code below:
 ## Step 3
 Create a `.eslintrc.js` file in your working folder
 
-Paste in your custome [rules]( https://eslint.org/docs/rules/ )
+Paste in your custom [rules]( https://eslint.org/docs/rules/ )
 
 ## Step 4
 Open your .js files to see the result.
